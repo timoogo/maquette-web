@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Candal&display=swap');
+:root{
+    --h1-fontsize:3em;
+    --h2-fontsize:1.8em;
+    --h3-fontsize:1.2em;
+    --p-fontsize:2em;
+    --h1-fontfamily:'Candal', sans-serif;
+    --li-fontfamily:'Candal', sans-serif;
+    --p-fontfamily: 'Open Sans, sans-serif';
+    --main-color: #EB919C;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 80%;
+    margin: auto;
+}
